@@ -36,5 +36,5 @@
 
 <h3 align="left">Activity:</h3>
 
-![Gaurav's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gaurav-kumayan&custom_title=Debjyoti's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7fff00&line=7fff00&point=7fff00&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Gaurav's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gaurav-kumayan&custom_title=Gaurav's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7fff00&line=7fff00&point=7fff00&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
